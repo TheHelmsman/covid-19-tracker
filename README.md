@@ -2,7 +2,7 @@
 
 JS REACT project with material UI.
 
-Based on [original code](https://github.com/adrianhajdin/project_corona_tracker).
+Based on [https://github.com/adrianhajdin/project_corona_tracker](https://github.com/adrianhajdin/project_corona_tracker).
 
 [Demo](https://covid-19-tracker-95fe5.web.app/).
 
