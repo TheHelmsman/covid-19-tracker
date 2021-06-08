@@ -1,8 +1,11 @@
 # covid-19-tracker
 
 JS REACT project with material UI
+Based on [original code](https://github.com/adrianhajdin/project_corona_tracker)
 
 [Demo](https://covid-19-tracker-95fe5.web.app/)
+[API](https://covid19.mathdro.id/api)
+
 
 # Getting Started with Create React App
 
